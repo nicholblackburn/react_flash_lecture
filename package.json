@@ -1,0 +1,13 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A react flash component",
+  "homepage": "https://github.com/nicholblackburn/react_flash_lecture",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicholblackburn/react_flash_lecture"
+  },
+  "license": "MIT",
+  "author": "nicblack007"
+}
