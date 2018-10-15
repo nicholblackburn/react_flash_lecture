@@ -9,5 +9,10 @@
     "url": "https://github.com/nicholblackburn/react_flash_lecture"
   },
   "license": "MIT",
-  "author": "nicblack007"
+  "author": "nicblack007",
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
+  }
 }
